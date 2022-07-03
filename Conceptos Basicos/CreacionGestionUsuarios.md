@@ -2,6 +2,10 @@
 
 ***
 
+## Fuentes
+[Creacion de cuentas linux](https://culturacion.com/como-crear-cuentas-de-usuario-en-linux/)
+[Administracion de usuarios](https://www.pedroventura.com/linux/administracion-de-usuarios-en-linux-crear-borrar-modificar-usuarios-y-grupos/)
+
 ## Tipos de usarios
 * Root
 * Especiales
