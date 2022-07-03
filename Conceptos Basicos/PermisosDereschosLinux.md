@@ -91,3 +91,18 @@ $ chmod g+s /carpeta_compartida
 
 ### STICKY
 * Suele asignarse en directorios a los que todos los usuarios tienen acceso, y *permite evitar que un usuario pueda borrar ficheros/directorios de otro usuario dentro de ese directorio*, ya que todos tienen permiso de escritura.
+
+```
+$ chmod +t /test
+```
+
+## GFTOBins
+[GFTOBins para explotar proviligeos](https://gtfobins.github.io/)
+
+## Buscar binarios con bit SUID
+
+    $ find \-perm -4000 2> /dev/null
+
+## Buscar archivos con capacidad de escritura
+
+    $ find \-writable
